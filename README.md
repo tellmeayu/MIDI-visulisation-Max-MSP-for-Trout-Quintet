@@ -11,4 +11,6 @@ The initial idea is quite simple --- get each midi note's pitch, velocity and du
 
 For more details: https://www.sylviastudio.cn/midi-visulisation-max-project-for-schuberts-trout-quintet/
 
+ A demo video: https://www.youtube.com/watch?v=9X_WIT-fNKw
+
 ![](https://www.sylviastudio.cn/wp-content/uploads/2024/04/Screenshot-2024-04-19-at-19.54.52.png)
